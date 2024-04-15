@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keithcyrilldiaz&label=Profile%20views&color=0e75b6&style=flat" alt="keithcyrilldiaz" /> </p>
 
-- 🔭 I’m currently working on **💻Kalinga (Thesis Project)**
+- 🔭 I’m currently working on **💻[Kalinga](https://github.com/KeithCyrillDiaz/Capstone1-Kalinga) (Thesis Project)**
 
 - 🌱 I’m currently learning **React Native, TypeScript, Node and Express**
 
