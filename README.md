@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Keith Diaz</h1>
 <h3 align="center">A passionate developer in the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif">
