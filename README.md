@@ -1,12 +1,9 @@
-
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.facebook.com/keith.diaz.58)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
 <h1 align="center">Hi 👋, I'm Keith Diaz</h1>
 <h3 align="center">A passionate developer in the Philippines</h3>
-(img align="right" alt="Coding" width="400" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif")
+<img align="right" alt="Coding" width="400" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keithcyrilldiaz&label=Profile%20views&color=0e75b6&style=flat" alt="keithcyrilldiaz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keithcyrilldiaz" alt="keithcyrilldiaz" /></a> </p>
 
 - 🔭 I’m currently working on **💻Kalinga (Thesis Project)**
 
